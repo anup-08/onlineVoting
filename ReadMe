@@ -1,2 +1,2 @@
-Developed an Online Voting Web App using Spring Boot (Backend) and React (Frontend) that enables secure voter registration, 
+Developed an Online Voting Web App using Spring Boot (Backend) and JS (Frontend) that enables secure voter registration, 
 authentication, and ballot casting. Ensures tamper-proof elections with real-time result tracking and admin oversight
